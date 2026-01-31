@@ -30,3 +30,7 @@ public class TypeCasting{
 // explicit type casting (Narrow Casting) (manual/forcefully) - converting the bigger type data to the smaller type data.
 // eg - double -> float -> long -> int -> short -> byte
 
+
+
+
+
